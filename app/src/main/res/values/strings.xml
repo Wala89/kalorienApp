@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FootDiary</string>
+    <string-array name="activTime">
+        <item>sitzend / liegend</item>
+        <item>sitzend / wenig Freizeitaktivitäten</item>
+        <item>sitzend / stehend / gehend</item>
+        <item>stehend / gehend / moderat Sport</item>
+        <item>körperlich anstrengender Tag</item>
+    </string-array>
+</resources>
